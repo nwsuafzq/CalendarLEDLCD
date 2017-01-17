@@ -1,3 +1,10 @@
+;=====================
+;			Author:ZhangQiong
+; 			From NWAFU
+;			Date:2017年1月
+;			实验环境：STAR ES598PCI实验箱
+;=====================
+
 	.MODEL	TINY
 EXTRN	Display8:NEAR, GetKeyA:NEAR
 IO8259_0	EQU	0F000H
